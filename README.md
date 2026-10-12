@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/galangdp290-art/galangdp290-art/main/assets/profile-animation.svg" width="100%" alt="Animated Dhanu profile banner" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Dhanu+%F0%9F%91%8B;Designer+%26+Developer;Membangun+hal+yang+bermakna+%F0%9F%9A%80" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Dhanu+%F0%9F%91%8B;Full+Stack+Developer;UI%2FUX+Designer;Creative+Innovator" alt="Typing animation" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=galangdp290-art&label=Profile%20Views&color=1e90ff&style=for-the-badge" alt="Profile views" />
@@ -27,12 +27,26 @@ Saya seorang **designer dan developer** dari Indonesia yang senang mengubah ide 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=galangdp290-art&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galangdp290-art&layout=compact&langs_count=8&theme=algolia&border_radius=10&bg_color=0D1117" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=galangdp290-art&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&text_color=00BFFF" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galangdp290-art&layout=compact&langs_count=8&theme=algolia&border_radius=10&bg_color=0D1117&text_color=00BFFF" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galangdp290-art&theme=algolia&hide_border=false&border_radius=10&background=0D1117&ring=1E90FF&fire=FF6B6B&currStreakLabel=00BFFF" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galangdp290-art&theme=algolia&hide_border=false&border_radius=10&background=0D1117&ring=1E90FF&fire=FF6B6B&currStreakLabel=00BFFF&sideLabels=00BFFF" alt="GitHub Streak Stats" />
+</div>
+
+## 📈 Statistik Repository
+
+<div align="center">
+  
+| Metrik | Nilai |
+|--------|-------|
+| Total Repositories | 📦 |
+| Open Issues | ❌ None |
+| Pull Requests | ✅ Active |
+| Followers | 👥 Berkembang |
+| Stars | ⭐ Coming Soon |
+
 </div>
 
 ## 🐍 Contribution Snake
@@ -47,6 +61,7 @@ Saya seorang **designer dan developer** dari Indonesia yang senang mengubah ide 
   <a href="https://github.com/galangdp290-art"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:galangdp290-art@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/galangdp290-art"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/galangdp290-art"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <div align="center">
