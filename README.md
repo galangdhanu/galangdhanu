@@ -28,7 +28,9 @@ Saya seorang **designer dan developer** dari Indonesia yang senang mengubah ide 
 
 <div align="center">
   
-### 📈 Statistics & Activity
+### 👀 Profile Views & Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=galangdp290-art&color=1e90ff&label=Profile%20Views)
 
 </div>
 
@@ -47,6 +49,17 @@ Saya seorang **designer dan developer** dari Indonesia yang senang mengubah ide 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/galangdp290-art/galangdp290-art/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</div>
+
+## 📦 Latest Repositories
+
+<div align="center">
+
+| Repository | Language | Stars | Link |
+|------------|----------|-------|------|
+| [galangdp290-art](https://github.com/galangdp290-art/galangdp290-art) | Markdown | ⭐ | [Visit](https://github.com/galangdp290-art/galangdp290-art) |
+| [website-portofolio](https://github.com/galangdp290-art/website-portofolio) | CSS | ⭐ | [Visit](https://github.com/galangdp290-art/website-portofolio) |
+
 </div>
 
 ## 🌐 Connect With Me
