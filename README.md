@@ -6,7 +6,6 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=galangdp290-art&label=Profile%20Views&color=1e90ff&style=for-the-badge" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/galangdp290-art?label=Followers&style=for-the-badge&color=00bfff&logo=github" alt="Followers" />
-    <img src="https://img.shields.io/badge/Dynamic_Badge-1E90FF?style=for-the-badge" alt="Dynamic Badge" />
   </p>
 </div>
 
@@ -28,22 +27,20 @@ Saya seorang **designer dan developer** dari Indonesia yang senang mengubah ide 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=galangdp290-art&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&text_color=00BFFF" alt="GitHub Stats" />
+  
+### 📈 Statistics & Activity
+
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=galangdp290-art&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&text_color=00BFFF&icon_color=00BFFF" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galangdp290-art&layout=compact&langs_count=8&theme=algolia&border_radius=10&bg_color=0D1117&text_color=00BFFF" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galangdp290-art&theme=algolia&hide_border=false&border_radius=10&background=0D1117&ring=1E90FF&fire=FF6B6B&currStreakLabel=00BFFF&sideLabels=00BFFF" alt="GitHub Streak Stats" />
-</div>
-
-## 📈 Profile Analytics
+<br />
 
 <div align="center">
-
-| 👁️ Views | 📊 Stats | 🎯 Activity |
-|-----------|---------|-----------|
-| ![Profile Views](https://komarev.com/ghpvc/?username=galangdp290-art&color=1e90ff) | ![GitHub User's stars](https://img.shields.io/github/stars/galangdp290-art?style=flat&logo=github&color=1e90ff) | ![Repos](https://img.shields.io/badge/Repositories-Updated-1e90ff) |
-
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=galangdp290-art&theme=algolia&hide_border=false&border_radius=10&background=0D1117&ring=1E90FF&fire=FF6B6B&currStreakLabel=00BFFF&sideLabels=00BFFF" alt="GitHub Streak Stats" />
 </div>
 
 ## 🐍 Contribution Snake
